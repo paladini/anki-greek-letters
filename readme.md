@@ -1,6 +1,6 @@
 # Anki Greek Letters
 
-Add a Greek Letters menu to Anki Card editor.
+Add a Greek Letters menu to Anki Card editor. Info on how to install this addon [available here](https://ankiweb.net/shared/info/556931341).
 
 ![](pictures/button.png)
 ![](pictures/full_screen.png)
